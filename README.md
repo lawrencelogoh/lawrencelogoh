@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 I'm Lawrence
+
+![Lawrence Logoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencelogoh&show_icons=true&theme=dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencelogoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lawrencelogoh/lawrencelogoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
