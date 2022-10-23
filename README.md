@@ -16,7 +16,3 @@ Toolbox:
 ![](https://img.shields.io/badge/Lang-Javascript-fff?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/Lang-C-fff?style=for-the-badge&logo=c)
 ![](https://img.shields.io/badge/Lang-Bash-fff?style=for-the-badge&logo=gnu-bash)
-
-Contact me:
-- [lawrence.logoh@gmail.com](mailto:lawrence.logoh@gmail.com)
-- [Twitter](https://twitter.com/lawrencelogoh)
