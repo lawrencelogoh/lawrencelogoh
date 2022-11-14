@@ -4,7 +4,6 @@ I'm a generalist software engineer. I'm a little scatterbrained so I work on any
 
 My interests generally revolve around:
 - Operating Systems
-- Linux
 - Compilers
 - The Web
 
