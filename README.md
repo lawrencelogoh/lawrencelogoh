@@ -8,6 +8,7 @@ My interests generally revolve around:
 - The Web
 
 [Hire me for a gig](https://www.fiverr.com/larrylogoh)
+
 [Hire me for a job](mailto:lawrence.logoh@gmail.com)
 
 Toolbox:
