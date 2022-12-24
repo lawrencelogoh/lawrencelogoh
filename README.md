@@ -7,6 +7,9 @@ My interests generally revolve around:
 - Compilers
 - The Web
 
+[Hire me for a gig](https://www.fiverr.com/larrylogoh)
+[Hire me for a job](mailto:lawrence.logoh@gmail.com)
+
 Toolbox:
 
 ![](https://img.shields.io/badge/OS-Linux-fff?style=for-the-badge&logo=linux)
