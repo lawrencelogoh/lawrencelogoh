@@ -9,7 +9,7 @@ My interests generally revolve around:
 
 Toolbox:
 
-![](https://img.shields.io/badge/OS-Linux-fff?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/OS-Linux-fff?style=for-the-badge&logo=OpenBSD)
 ![](https://img.shields.io/badge/Editor-Emacs-fff?style=for-the-badge&logo=gnu-emacs&logoColor=violet)
 ![](https://img.shields.io/badge/Lang-Python-fff?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Lang-Go-fff?style=for-the-badge&logo=go)
