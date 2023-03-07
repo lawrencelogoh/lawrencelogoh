@@ -7,6 +7,11 @@ My interests generally revolve around:
 - Compilers
 - The Web
 
+Links:
+- [My Blog](https://lawrencelogoh.com/blog)
+- [My Zettelkasten](https://github.com/lawrencelogoh/zet)
+- [My Knowledge Management System](https://github.com/lawrencelogoh/kms)
+
 Toolbox:
 
 ![](https://img.shields.io/badge/OS-OpenBSD-fff?style=for-the-badge&logo=OpenBSD)
