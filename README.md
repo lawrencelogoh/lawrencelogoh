@@ -11,7 +11,7 @@ Links:
 - [My Blog](https://lawrencelogoh.com/blog)
 - [My Zettelkasten](https://github.com/lawrencelogoh/zet)
 - [My Knowledge Management System](https://github.com/lawrencelogoh/kms)
-- [Buy me a cofffee](https://www.buymeacoffee.com/lawrencelogoh)
+- [Buy me a coffee](https://www.buymeacoffee.com/lawrencelogoh)
 
 Toolbox:
 
